@@ -1,19 +1,22 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.7fb92c8f.chunk.css",
-    "main.js": "/Portfolio/static/js/main.f017787b.chunk.js",
-    "main.js.map": "/Portfolio/static/js/main.f017787b.chunk.js.map",
+    "main.css": "/Portfolio/static/css/main.30d19ffc.chunk.css",
+    "main.js": "/Portfolio/static/js/main.6237b286.chunk.js",
+    "main.js.map": "/Portfolio/static/js/main.6237b286.chunk.js.map",
     "runtime-main.js": "/Portfolio/static/js/runtime-main.66464f56.js",
     "runtime-main.js.map": "/Portfolio/static/js/runtime-main.66464f56.js.map",
     "static/css/2.725fd0e4.chunk.css": "/Portfolio/static/css/2.725fd0e4.chunk.css",
-    "static/js/2.29ca06a4.chunk.js": "/Portfolio/static/js/2.29ca06a4.chunk.js",
-    "static/js/2.29ca06a4.chunk.js.map": "/Portfolio/static/js/2.29ca06a4.chunk.js.map",
+    "static/js/2.f78a1408.chunk.js": "/Portfolio/static/js/2.f78a1408.chunk.js",
+    "static/js/2.f78a1408.chunk.js.map": "/Portfolio/static/js/2.f78a1408.chunk.js.map",
     "index.html": "/Portfolio/index.html",
-    "precache-manifest.fbebc9a37361fb423f8ffe41d0fafde8.js": "/Portfolio/precache-manifest.fbebc9a37361fb423f8ffe41d0fafde8.js",
+    "precache-manifest.3abd331c3c69a3468b35524d74886670.js": "/Portfolio/precache-manifest.3abd331c3c69a3468b35524d74886670.js",
     "service-worker.js": "/Portfolio/service-worker.js",
     "static/css/2.725fd0e4.chunk.css.map": "/Portfolio/static/css/2.725fd0e4.chunk.css.map",
-    "static/css/main.7fb92c8f.chunk.css.map": "/Portfolio/static/css/main.7fb92c8f.chunk.css.map",
-    "static/js/2.29ca06a4.chunk.js.LICENSE": "/Portfolio/static/js/2.29ca06a4.chunk.js.LICENSE",
+    "static/css/main.30d19ffc.chunk.css.map": "/Portfolio/static/css/main.30d19ffc.chunk.css.map",
+    "static/js/2.f78a1408.chunk.js.LICENSE": "/Portfolio/static/js/2.f78a1408.chunk.js.LICENSE",
+    "static/media/Downright.png": "/Portfolio/static/media/Downright.503653bf.png",
+    "static/media/Powerup.png": "/Portfolio/static/media/Powerup.a4958bec.png",
+    "static/media/Quizapp.png": "/Portfolio/static/media/Quizapp.733ae167.png",
     "static/media/avatar.png": "/Portfolio/static/media/avatar.d0e4147c.png",
     "static/media/Header.css": "/Portfolio/static/media/background-2.453353e1.jpg",
     "static/media/font-awesome.min.css": "/Portfolio/static/media/fontawesome-webfont.fee66e71.woff",
@@ -22,8 +25,8 @@
   "entrypoints": [
     "static/js/runtime-main.66464f56.js",
     "static/css/2.725fd0e4.chunk.css",
-    "static/js/2.29ca06a4.chunk.js",
-    "static/css/main.7fb92c8f.chunk.css",
-    "static/js/main.f017787b.chunk.js"
+    "static/js/2.f78a1408.chunk.js",
+    "static/css/main.30d19ffc.chunk.css",
+    "static/js/main.6237b286.chunk.js"
   ]
 }
