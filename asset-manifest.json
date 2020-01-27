@@ -1,21 +1,22 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.66e67075.chunk.css",
-    "main.js": "/Portfolio/static/js/main.5de40ed8.chunk.js",
-    "main.js.map": "/Portfolio/static/js/main.5de40ed8.chunk.js.map",
+    "main.css": "/Portfolio/static/css/main.7746768f.chunk.css",
+    "main.js": "/Portfolio/static/js/main.e6d3a364.chunk.js",
+    "main.js.map": "/Portfolio/static/js/main.e6d3a364.chunk.js.map",
     "runtime-main.js": "/Portfolio/static/js/runtime-main.66464f56.js",
     "runtime-main.js.map": "/Portfolio/static/js/runtime-main.66464f56.js.map",
     "static/css/2.725fd0e4.chunk.css": "/Portfolio/static/css/2.725fd0e4.chunk.css",
-    "static/js/2.f78a1408.chunk.js": "/Portfolio/static/js/2.f78a1408.chunk.js",
-    "static/js/2.f78a1408.chunk.js.map": "/Portfolio/static/js/2.f78a1408.chunk.js.map",
+    "static/js/2.80c4fb8c.chunk.js": "/Portfolio/static/js/2.80c4fb8c.chunk.js",
+    "static/js/2.80c4fb8c.chunk.js.map": "/Portfolio/static/js/2.80c4fb8c.chunk.js.map",
     "index.html": "/Portfolio/index.html",
-    "precache-manifest.2882ab91aab601ed4a6d93f740741455.js": "/Portfolio/precache-manifest.2882ab91aab601ed4a6d93f740741455.js",
+    "precache-manifest.912e9c3ce41c4cb4ff2838eff7d96610.js": "/Portfolio/precache-manifest.912e9c3ce41c4cb4ff2838eff7d96610.js",
     "service-worker.js": "/Portfolio/service-worker.js",
     "static/css/2.725fd0e4.chunk.css.map": "/Portfolio/static/css/2.725fd0e4.chunk.css.map",
-    "static/css/main.66e67075.chunk.css.map": "/Portfolio/static/css/main.66e67075.chunk.css.map",
-    "static/js/2.f78a1408.chunk.js.LICENSE": "/Portfolio/static/js/2.f78a1408.chunk.js.LICENSE",
+    "static/css/main.7746768f.chunk.css.map": "/Portfolio/static/css/main.7746768f.chunk.css.map",
+    "static/js/2.80c4fb8c.chunk.js.LICENSE": "/Portfolio/static/js/2.80c4fb8c.chunk.js.LICENSE",
     "static/media/Header.css": "/Portfolio/static/media/Background.20605f9b.png",
     "static/media/Downright.png": "/Portfolio/static/media/Downright.503653bf.png",
+    "static/media/Forum-ish.png": "/Portfolio/static/media/Forum-ish.5b9bfacf.png",
     "static/media/Powerup.png": "/Portfolio/static/media/Powerup.a4958bec.png",
     "static/media/Quizapp.png": "/Portfolio/static/media/Quizapp.733ae167.png",
     "static/media/avatar.png": "/Portfolio/static/media/avatar.48512877.png",
@@ -25,8 +26,8 @@
   "entrypoints": [
     "static/js/runtime-main.66464f56.js",
     "static/css/2.725fd0e4.chunk.css",
-    "static/js/2.f78a1408.chunk.js",
-    "static/css/main.66e67075.chunk.css",
-    "static/js/main.5de40ed8.chunk.js"
+    "static/js/2.80c4fb8c.chunk.js",
+    "static/css/main.7746768f.chunk.css",
+    "static/js/main.e6d3a364.chunk.js"
   ]
 }
