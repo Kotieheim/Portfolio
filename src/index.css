@@ -1,0 +1,12 @@
+body {
+  margin: 0;
+  font-family: "Bebas Neue", cursive;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.row {
+  width: 96%;
+  max-width: 1020px;
+  margin: 0 auto;
+}

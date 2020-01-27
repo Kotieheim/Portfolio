@@ -1,0 +1,77 @@
+#resume {
+  background: #2b2b2b;
+  padding-top: 90px;
+  padding-bottom: 72px;
+  overflow: hidden;
+}
+
+#resume a,
+#resume a:visited {
+  color: #11abb0;
+}
+#resume a:hover,
+#resume a:focus {
+  color: #313131;
+}
+
+#resume .education h1 {
+  text-decoration: underline;
+  font-size: 36px;
+  color: rgb(211, 182, 166);
+  font-weight: lighter;
+  /* letter-spacing: 1px; */
+  margin-bottom: 12px;
+}
+#resume .education h2 {
+  font-size: 25px;
+  letter-spacing: 2px;
+  color: white;
+}
+
+#resume .header-col {
+  padding-top: 9px;
+}
+#resume .main-col {
+  padding-right: 10%;
+}
+
+.education {
+  margin-bottom: 48px;
+  padding-bottom: 24px;
+  border-bottom: 1px solid #e8e8e8;
+}
+#resume .info {
+  font-size: 16px;
+  color: #aaaaaa;
+  margin-bottom: 18px;
+  margin-top: 9px;
+}
+#resume .info-content {
+  letter-spacing: 0.7px;
+  color: rgb(197, 169, 153);
+}
+#resume .info span {
+  margin-right: 5px;
+  margin-left: 5px;
+}
+.skill {
+  margin-bottom: 48px;
+  padding-bottom: 24px;
+  border-bottom: 1px solid #e8e8e8;
+}
+.skills {
+  color: rgb(197, 169, 153);
+  letter-spacing: 0.2px;
+}
+.skill h2 {
+  font-size: 20px;
+  color: #6e7881;
+}
+#resume .skill h1 {
+  text-decoration: underline;
+  font-size: 32px;
+  color: #e8e8e8;
+  font-weight: lighter;
+  /* letter-spacing: 1px; */
+  margin-bottom: 12px;
+}

@@ -1,0 +1,46 @@
+#contact {
+  background: #191919;
+  padding-top: 56px;
+  padding-bottom: 102px;
+  color: #636363;
+}
+.Phone_number {
+  margin: 0;
+  color: #c9c9c9;
+  display: inline-block;
+}
+
+#contact a,
+#contact a:visited {
+  color: #c9c9c9;
+  text-decoration: none;
+}
+#contact a:hover,
+#contact a:focus {
+  color: rgb(126, 109, 100);
+}
+.lead {
+  color: #e8e8e8;
+}
+#contact span {
+  display: block;
+  margin: 18px auto;
+  width: 220px;
+  font-size: 18px;
+  color: rgb(197, 169, 153);
+  margin-bottom: 6px;
+  border-bottom: 0.2px solid rgb(131, 124, 124);
+  text-align: left;
+}
+#contact span span {
+  color: #c9c9c9;
+}
+#contact p.lead {
+  font-size: 24px;
+}
+#contact .header-col {
+  padding-top: 6px;
+}
+.contact-info {
+  letter-spacing: 1px;
+}
