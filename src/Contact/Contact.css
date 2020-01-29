@@ -20,9 +20,11 @@
   color: rgb(126, 109, 100);
 }
 .lead {
+  font-weight: lighter;
   color: #e8e8e8;
 }
-#contact span {
+#contact span,
+#contact .Phone {
   display: block;
   margin: 18px auto;
   width: 220px;

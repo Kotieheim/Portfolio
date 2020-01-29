@@ -36,11 +36,19 @@ export class Portfolio extends Component {
                     <div>
                       <h2>Power Up</h2>
                       <p>
-                        <a href="https://power-up-app-bwyi8ooka.now.sh/">
+                        <a
+                          href="https://power-up-app-bwyi8ooka.now.sh/"
+                          target="_blank"
+                          rel="noopener noreferrer"
+                        >
                           Site
                         </a>{" "}
                         |{" "}
-                        <a href="https://github.com/Kotieheim/power-up-app">
+                        <a
+                          href="https://github.com/Kotieheim/power-up-app"
+                          target="_blank"
+                          rel="noopener noreferrer"
+                        >
                           Github
                         </a>
                       </p>
@@ -92,8 +100,19 @@ export class Portfolio extends Component {
                     <div>
                       <h2>Forum-ish</h2>
                       <p>
-                        <a href="https://forum-ish.kotieheim.now.sh/">Site</a> |{" "}
-                        <a href="https://github.com/Kotieheim/Forum-ish">
+                        <a
+                          href="https://forum-ish.kotieheim.now.sh/"
+                          target="_blank"
+                          rel="noopener noreferrer"
+                        >
+                          Site
+                        </a>{" "}
+                        |{" "}
+                        <a
+                          href="https://github.com/Kotieheim/Forum-ish"
+                          target="_blank"
+                          rel="noopener noreferrer"
+                        >
                           Github
                         </a>
                       </p>
@@ -142,11 +161,19 @@ export class Portfolio extends Component {
                     <div>
                       <h2>Down-Right-Tasty</h2>
                       <p>
-                        <a href="https://kotieheim.github.io/recipe-hack-capstone/">
+                        <a
+                          href="https://kotieheim.github.io/recipe-hack-capstone/"
+                          target="_blank"
+                          rel="noopener noreferrer"
+                        >
                           Site
                         </a>{" "}
                         |{" "}
-                        <a href="https://github.com/Kotieheim/recipe-hack-capstone">
+                        <a
+                          href="https://github.com/Kotieheim/recipe-hack-capstone"
+                          target="_blank"
+                          rel="noopener noreferrer"
+                        >
                           Github
                         </a>
                       </p>
@@ -191,11 +218,19 @@ export class Portfolio extends Component {
                     <div>
                       <h2>Weight Training Quiz</h2>
                       <p>
-                        <a href="https://kotieheim.github.io/Quiz-Assignment/">
+                        <a
+                          href="https://kotieheim.github.io/Quiz-Assignment/"
+                          target="_blank"
+                          rel="noopener noreferrer"
+                        >
                           Site
                         </a>{" "}
                         |{" "}
-                        <a href="https://github.com/Kotieheim/Quiz-Assignment">
+                        <a
+                          href="https://github.com/Kotieheim/Quiz-Assignment"
+                          target="_blank"
+                          rel="noopener noreferrer"
+                        >
                           Github
                         </a>
                       </p>

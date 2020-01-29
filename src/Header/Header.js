@@ -8,7 +8,7 @@ export class Header extends Component {
     return (
       <React.Fragment>
         <header id="home">
-          <nav role="navigation" id="nav-wrap">
+          <nav id="nav-wrap">
             <a className="mobile-btn" href="#nav-wrap" title="Show navigation">
               Show navigation
             </a>

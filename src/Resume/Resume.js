@@ -6,10 +6,9 @@ export class Resume extends Component {
     let resumeData = this.props.resumeData;
     return (
       <section id="resume">
+        <h1>Education</h1>
         <div className="row education">
-          <div className="columns">
-            <h1>Education</h1>
-          </div>
+          <div className="columns"></div>
 
           <div className="columns">
             {resumeData.education &&
