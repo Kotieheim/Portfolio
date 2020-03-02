@@ -1,11 +1,11 @@
 let resumeData = {
   imagebaseurl: "https://kotieheim.github.io/",
   name: "Dakota Heim",
-  role: "Front End Developer",
+  role: "Full Stack Developer",
   linkedinId: "LinkedIn Id",
   skypeid: "skypeid",
   roleDescription:
-    " I like to learn about new technologies and challenge myself both mentally and physically. I'm excited to receive my certificate from Thinkful.bloc.io and to start my career in programming.",
+    " I'm an incredibly passionate developer and pride myself on being a quick learner. I enjoy learning new technologies and I'm never afraid to challenge myself!",
   socialLinks: [
     {
       name: "linkedin",

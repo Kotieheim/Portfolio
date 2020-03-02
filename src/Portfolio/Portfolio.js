@@ -4,6 +4,7 @@ import Downright from "../images/Downright.png";
 import Powerup from "../images/Powerup.png";
 import Quizapp from "../images/Quizapp.png";
 import Forumish from "../images/Forum-ish.png";
+import Momon from "../images/Momon.png";
 
 export class Portfolio extends Component {
   render() {
@@ -12,6 +13,128 @@ export class Portfolio extends Component {
         <div className="row">
           <div className="columns collapsed">
             <h1>Projects</h1>
+
+            <div className="portfolio-wrapper">
+              <div className="columns portfolio-item">
+                <div className="item-wrap">
+                  <div className="img-container">
+                    <img
+                      src={Forumish}
+                      className="item-img"
+                      alt="project screenshot"
+                    />
+                    <a
+                      href="https://forum-ish.kotieheim.now.sh/"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                    >
+                      <div className="overlay">
+                        <div className="text">Check it out!</div>
+                      </div>
+                    </a>
+                  </div>
+
+                  <div className="item-img-links">
+                    <div>
+                      <h2>Forum-ish</h2>
+                      <p>
+                        <a
+                          href="https://forum-ish.kotieheim.now.sh/"
+                          target="_blank"
+                          rel="noopener noreferrer"
+                        >
+                          Site
+                        </a>{" "}
+                        |{" "}
+                        <a
+                          href="https://github.com/Kotieheim/Forum-ish"
+                          target="_blank"
+                          rel="noopener noreferrer"
+                        >
+                          Github
+                        </a>
+                      </p>
+                    </div>
+                    <p className="project-description">
+                      Forum-ish is a Full Stack application built using React,
+                      Node and Express. It's a RESTful API with a bright and
+                      colorful comic book theme. It's a message board that uses
+                      AJAX requests and allows for user registration and logins
+                      using JWT authentication. This was made with my brother in
+                      mind who is an english teachers with students who love
+                      hearing him talk about their curriculum, music and random
+                      facts.
+                    </p>
+                    <div className="Portfolio-techno-used">
+                      <p>
+                        Technologies used: HTML, CSS, JavaScript, React, Node.js
+                        and Express.js
+                      </p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <div className="portfolio-wrapper">
+              <div className="columns portfolio-item">
+                <div className="item-wrap">
+                  <div className="img-container">
+                    <img
+                      src={Momon}
+                      className="item-img"
+                      alt="project screenshot"
+                    />
+                    <a
+                      href="https://forum-ish.kotieheim.now.sh/"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                    >
+                      <div className="overlay">
+                        <div className="text">Check it out!</div>
+                      </div>
+                    </a>
+                  </div>
+
+                  <div className="item-img-links">
+                    <div>
+                      <h2>Mo Money</h2>
+                      <p>
+                        <a
+                          href="https://hopeful-wiles-db2aa3.netlify.com/"
+                          target="_blank"
+                          rel="noopener noreferrer"
+                        >
+                          Site
+                        </a>{" "}
+                        |{" "}
+                        <a
+                          href="https://github.com/Kotieheim/expenses-app"
+                          target="_blank"
+                          rel="noopener noreferrer"
+                        >
+                          Github
+                        </a>
+                      </p>
+                    </div>
+                    <p className="project-description">
+                      Mo Money An expenses app made to become more familiar with
+                      using React Hooks as well as working with Netlify and a
+                      toggle button to switch between light and dark theme. To
+                      use, simply add a name of an expense and how much it was
+                      and it gets automatically calculated and displayed.
+                    </p>
+                    <div className="Portfolio-techno-used">
+                      <p>
+                        Technologies used: HTML, CSS, JavaScript, React, React
+                        Hooks, Emotion, styled-components and Netlify.
+                      </p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+
             <div className="portfolio-wrapper">
               <div className="columns portfolio-item">
                 <div className="item-wrap">
@@ -70,67 +193,6 @@ export class Portfolio extends Component {
                       <p>
                         Technologies used: HTML, CSS, JavaScript, React.js,
                         Node.js and Express.js
-                      </p>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-            <div className="portfolio-wrapper">
-              <div className="columns portfolio-item">
-                <div className="item-wrap">
-                  <div className="img-container">
-                    <img
-                      src={Forumish}
-                      className="item-img"
-                      alt="project screenshot"
-                    />
-                    <a
-                      href="https://forum-ish.kotieheim.now.sh/"
-                      target="_blank"
-                      rel="noopener noreferrer"
-                    >
-                      <div className="overlay">
-                        <div className="text">Check it out!</div>
-                      </div>
-                    </a>
-                  </div>
-
-                  <div className="item-img-links">
-                    <div>
-                      <h2>Forum-ish</h2>
-                      <p>
-                        <a
-                          href="https://forum-ish.kotieheim.now.sh/"
-                          target="_blank"
-                          rel="noopener noreferrer"
-                        >
-                          Site
-                        </a>{" "}
-                        |{" "}
-                        <a
-                          href="https://github.com/Kotieheim/Forum-ish"
-                          target="_blank"
-                          rel="noopener noreferrer"
-                        >
-                          Github
-                        </a>
-                      </p>
-                    </div>
-                    <p className="project-description">
-                      Forum-ish is a Full Stack application built using React,
-                      Node and Express. It's a RESTful API with a bright and
-                      colorful comic book theme. It's a message board that uses
-                      AJAX requests and allows for user registration and logins
-                      using JWT authentication. This was made with my brother in
-                      mind who is an english teachers with students who love
-                      hearing him talk about their curriculum, music and random
-                      facts.
-                    </p>
-                    <div className="Portfolio-techno-used">
-                      <p>
-                        Technologies used: HTML, CSS, JavaScript, React, Node.js
-                        and Express.js
                       </p>
                     </div>
                   </div>

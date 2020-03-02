@@ -4,6 +4,7 @@
   padding-bottom: 60px;
 }
 #portfolio h1 {
+  font-family: "Bebas Neue", cursive;
   text-decoration: underline;
   font-size: 32px;
   color: #2b2b2b;
@@ -12,6 +13,7 @@
   margin-bottom: 60px;
 }
 #portfolio h2 {
+  font-family: "Bebas Neue", cursive;
   text-decoration: underline;
   font-size: 28px;
   color: #2b2b2b;

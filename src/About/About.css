@@ -15,6 +15,7 @@
 }
 
 #about h2 {
+  font-family: "Bebas Neue", cursive;
   text-decoration: underline;
   font-size: 32px;
   color: rgb(197, 169, 153);
@@ -24,7 +25,7 @@
   text-align: left;
 }
 #about p {
-  letter-spacing: 0.5px;
+  letter-spacing: 0.7px;
   font-size: 16px;
   text-align: left;
   line-height: 1.7;
