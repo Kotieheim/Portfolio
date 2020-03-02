@@ -47,6 +47,7 @@
   margin-top: 9px;
 }
 #resume .info-content {
+  line-height: 1.7;
   letter-spacing: 0.7px;
   color: rgb(197, 169, 153);
 }

@@ -46,7 +46,8 @@ export class Resume extends Component {
               <h2>Front End</h2>
               <p className="skills">
                 {" "}
-                JavaScript - ES6 - React - jQuery - HTML5 - CSS3 - NPM - AJAX
+                JavaScript - ES6 - React - jQuery - HTML5 - CSS3 - NPM - AJAX -
+                Bootstrap - Socket.io
               </p>
             </div>
             <div className="bars">

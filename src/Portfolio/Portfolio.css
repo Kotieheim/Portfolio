@@ -19,6 +19,7 @@
   letter-spacing: 1px;
 }
 .portfolio-item .item-wrap p {
+  line-height: 1.7;
   display: block;
   padding: 0 15px;
 }

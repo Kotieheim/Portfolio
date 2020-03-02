@@ -24,9 +24,7 @@ export class Contact extends Component {
                   kotieheim@gmail.com
                 </a>
               </span>
-              <div className="Phone">
-                Phone #: <div className="Phone_number">801-427-9988</div>
-              </div>
+
               <span>
                 LinkedIn:{" "}
                 <a

@@ -47,18 +47,6 @@ let resumeData = {
       Achievements:
         "General introductions into developement and programming which led me to pursue other means of education myself for the specific niche of what im interested in, rather than spending time on subjects not pertaining to my interests."
     }
-  ],
-  skillsDescription: "Your skills here",
-  skills: [
-    {
-      skillname: "HTML5"
-    },
-    {
-      skillname: "CSS"
-    },
-    {
-      skillname: "Reactjs"
-    }
   ]
 };
 
