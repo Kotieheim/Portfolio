@@ -118,11 +118,12 @@ export class Portfolio extends Component {
                       </p>
                     </div>
                     <p className="project-description">
-                      Mo Money An expenses app made to become more familiar with
-                      using React Hooks as well as working with Netlify and a
-                      toggle button to switch between light and dark theme. To
-                      use, simply add a name of an expense and how much it was
-                      and it gets automatically calculated and displayed.
+                      Mo Money is an expenses app I made to become more familiar
+                      with using React Hooks as well as working with Netlify. It
+                      has a toggle button to switch between light and dark
+                      theme. To use, simply add a name of an expense and how
+                      much it was and it gets automatically calculated and
+                      displayed.
                     </p>
                     <div className="Portfolio-techno-used">
                       <p>
