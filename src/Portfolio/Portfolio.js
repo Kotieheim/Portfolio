@@ -5,6 +5,7 @@ import Powerup from "../images/Powerup.png";
 import Quizapp from "../images/Quizapp.png";
 import Forumish from "../images/Forum-ish.png";
 import Momon from "../images/Momon.png";
+import Todoapp from "../images/Todoapp.png";
 
 export class Portfolio extends Component {
   render() {
@@ -69,6 +70,57 @@ export class Portfolio extends Component {
                       <p>
                         Technologies used: HTML, CSS, JavaScript, React, Node.js
                         and Express.js
+                      </p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <div className="portfolio-wrapper">
+              <div className="columns portfolio-item">
+                <div className="item-wrap">
+                  <div className="img-container">
+                    <img
+                      src={Todoapp}
+                      className="item-img"
+                      alt="project screenshot"
+                    />
+                    <a
+                      href="https://github.com/Kotieheim/Todo-Mobile"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                    >
+                      <div className="overlay">
+                        <div className="text">Check it out!</div>
+                      </div>
+                    </a>
+                  </div>
+
+                  <div className="item-img-links">
+                    <div>
+                      <h2>Todo (mobile)</h2>
+                      <p>
+                        <a
+                          href="https://github.com/Kotieheim/Todo-Mobile"
+                          target="_blank"
+                          rel="noopener noreferrer"
+                        >
+                          Github
+                        </a>
+                      </p>
+                    </div>
+                    <p className="project-description">
+                      Simple Todo app made to become more familar using React
+                      Native, Expo-cli as well as implemending React Hooks.
+                      Simply write a Todo that you want added to the list,
+                      strike through todo by clicking the text. Delete todo by
+                      clicking trash can icon next to individual todo.
+                    </p>
+                    <div className="Portfolio-techno-used">
+                      <p>
+                        Technologies used: HTML, CSS, JavaScript, React Native,
+                        Expo-cli
                       </p>
                     </div>
                   </div>
