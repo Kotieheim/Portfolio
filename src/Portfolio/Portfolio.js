@@ -138,7 +138,7 @@ export class Portfolio extends Component {
                       alt="project screenshot"
                     />
                     <a
-                      href="https://forum-ish.kotieheim.now.sh/"
+                      href="https://hopeful-wiles-db2aa3.netlify.app/"
                       target="_blank"
                       rel="noopener noreferrer"
                     >
