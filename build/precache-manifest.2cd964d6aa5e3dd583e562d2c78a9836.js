@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "32469cc54a0e71f483e0b17515ef2cad",
+    "revision": "bde8331c14180fe2694f2cbc36226e56",
     "url": "/index.html"
   },
   {
-    "revision": "53889e656007e86695d5",
+    "revision": "7c3f7e98838ad299cb20",
     "url": "/static/css/2.400f043a.chunk.css"
   },
   {
-    "revision": "e7080bafea568cbca51d",
-    "url": "/static/css/main.83840bc1.chunk.css"
+    "revision": "32715ae3c709e5ee4cf5",
+    "url": "/static/css/main.8393761b.chunk.css"
   },
   {
-    "revision": "53889e656007e86695d5",
-    "url": "/static/js/2.4caa7b92.chunk.js"
+    "revision": "7c3f7e98838ad299cb20",
+    "url": "/static/js/2.0e2f2906.chunk.js"
   },
   {
     "revision": "d705cb622423d72c5defbf368ca70dcc",
-    "url": "/static/js/2.4caa7b92.chunk.js.LICENSE"
+    "url": "/static/js/2.0e2f2906.chunk.js.LICENSE"
   },
   {
-    "revision": "e7080bafea568cbca51d",
-    "url": "/static/js/main.704b98f6.chunk.js"
+    "revision": "32715ae3c709e5ee4cf5",
+    "url": "/static/js/main.e96973c3.chunk.js"
   },
   {
     "revision": "0a09a5a51a3079611896",
@@ -50,6 +50,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "733ae167f44dcd6bb7f472853bd2e3c3",
     "url": "/static/media/Quizapp.733ae167.png"
+  },
+  {
+    "revision": "d96dd506ebadd55d614b7b4b339efe0a",
+    "url": "/static/media/Todoapp.d96dd506.png"
   },
   {
     "revision": "48512877efcc13e13571bae86dbaed15",
